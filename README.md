@@ -17,25 +17,6 @@ This project demonstrates how to perform automatic speech recognition (ASR) usin
 - [jiwer](https://github.com/jitsi/jiwer) (for WER and CER calculations)
 - Jupyter Notebook
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/SpeechRecognition_with_WhisperAI.git
-cd SpeechRecognition_with_WhisperAI
-```
-
-### 2. Install Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Notebook
-
-Open `SpeechRecognition_with_WhisperAI.ipynb` using Jupyter and follow the instructions to test audio transcriptions.
-
 ## 📂 File Structure
 
 ```
@@ -49,7 +30,3 @@ SpeechRecognition_with_WhisperAI/
 ## 📈 Example Output
 
 The notebook uses the Whisper model to transcribe `speech_01.wav` and compares the result with a ground truth transcription to calculate accuracy metrics.
-
-## ✅ License
-
-MIT License
