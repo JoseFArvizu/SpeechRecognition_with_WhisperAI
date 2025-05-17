@@ -23,8 +23,7 @@ This project demonstrates how to perform automatic speech recognition (ASR) usin
 SpeechRecognition_with_WhisperAI/
 ├── SpeechRecognition_with_WhisperAI.ipynb
 ├── speech_01.wav
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## 📈 Example Output
